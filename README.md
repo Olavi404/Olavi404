@@ -1,6 +1,6 @@
-# Hi, I'm Olavi Keerd 👋
+# Hi, I'm Olavi Keerd 
 
-**Software Development Student | Backend & Full-Stack Development**
+**Software Development Student |
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://olavi404.github.io)
 ![Open to internships](https://img.shields.io/badge/Open_to-Internship-16803c?style=for-the-badge)
